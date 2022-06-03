@@ -1,10 +1,4 @@
-// ---------------------------------------------------------------------------------------
-//
-// Simple code to setup the ESP32 as access point (device used for tests: ESP32-WROOM-32D).
-//
-// Written by mo thunderz (last update: 05.12.2021)
-//
-// ---------------------------------------------------------------------------------------
+
 
 #include <WiFi.h>                                     // needed to connect to setup an accesspoint
 
